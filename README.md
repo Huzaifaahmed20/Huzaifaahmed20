@@ -39,6 +39,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [This cool VS Code extension  is really helpful during Development in Flutter.](https://www.youtube.com/watch?v=57F0PoI7_gA)
+- [Localize Flutter app with this easy method | Flutter | Urdu / Hindi](https://www.youtube.com/watch?v=zFuATOlE77w)
+- [Flutter Widget of the Week (CheckboxListTile) (Urdu/Hindi)](https://www.youtube.com/watch?v=VCPD1bR77sQ)
+- [How to Add Fingerprint Authentication in your Flutter app? || Urdu / Hindi](https://www.youtube.com/watch?v=ctOgHgNFi9w)
+- [How you can implement search AppBar with functionality in just few minutes  | Flutter](https://www.youtube.com/watch?v=QlBXmJNsH0E)
 <!-- YOUTUBE:END -->
 
 ---
