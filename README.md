@@ -41,6 +41,15 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+---
+
+![Huzaifa's github stats](https://github-readme-stats.vercel.app/api?username=Huzaifaahmed20&count_private=true&show_icons=true&theme=highcontrast&hide_border=true)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifaahmed20&theme=highcontrast&hide_border=true&layout=compact)](https://github.com/Huzaifaahmed20/github-readme-stats)
+
+
 
 [website]: https://huzaifaahmed20.github.io/
 [twitter]: https://twitter.com/Huzaifa_Ahmed19
