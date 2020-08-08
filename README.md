@@ -46,6 +46,10 @@
 - [How you can implement search AppBar with functionality in just few minutes  | Flutter](https://www.youtube.com/watch?v=QlBXmJNsH0E)
 <!-- YOUTUBE:END -->
 
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ![Huzaifa's github stats](https://github-readme-stats.vercel.app/api?username=Huzaifaahmed20&count_private=true&show_icons=true&theme=highcontrast&hide_border=true)
