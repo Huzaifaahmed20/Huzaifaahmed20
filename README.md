@@ -1,3 +1,6 @@
+![GitHub followers](https://img.shields.io/github/followers/Huzaifaahmed20?color=181717&logo=Github&style=for-the-badge) 
+![YouTube Video Views](https://img.shields.io/youtube/views/iEuT21t1qqc?color=FF0000&label=Flutter%20Provider%20Views&logo=Youtube&style=for-the-badge)
+
 ### Hi there, I'm Huzaifa Ahmed 👋
 
 ## I'm Web and Mobile Application Developer!
