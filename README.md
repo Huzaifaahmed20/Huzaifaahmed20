@@ -4,9 +4,9 @@
 ### Hi there, I'm Huzaifa Ahmed 👋
 
 ## I'm Web and Mobile Application Developer!
-- 🔭 I’m currently working on a [Flutter Course][youtube]!
+- 🔭 I’m currently working on a [Flutter Course][youtube-flutter-playlist]!
 - 🌱 I’m currently learning more Mobile App development tech 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects and to grow my Youtube Channel to a good height.
+- 🥅  2020 Goals: Contribute more to Open Source projects and to grow my Youtube Channel to a good height.
 - ⚡ Fun fact: I love to make digital content.
 
 ### Connect with me:
@@ -82,6 +82,7 @@
 [website]: https://huzaifaahmed20.github.io/
 [twitter]: https://twitter.com/Huzaifa_Ahmed19
 [youtube]: https://www.youtube.com/channel/UCLKS-qC6EvlE7bayfQsWPFw
+[youtube-flutter-playlist]: https://www.youtube.com/watch?v=n2Q3eClZW6k&list=PL4r_2P8lRxljxIO1gNY9H1iZMGpYhinLA
 [instagram]: https://www.instagram.com/huzaifa_ahmed13/
 [linkedin]: https://www.linkedin.com/in/huzaifa-ahmed-mohammad/
 [medium]: https://medium.com/@huzaifaahmed_43162
