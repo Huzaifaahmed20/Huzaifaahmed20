@@ -54,11 +54,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Install and Configure Stacked CLI | Flutter Firebase Series | Part 03 | Urdu / Hindi](https://www.youtube.com/watch?v=j3Yu4YFG2Tk)
 - [Setting up the Ultimate Flutter Architecture | Flutter Firebase Series | Part 02 | Urdu / Hindi](https://www.youtube.com/watch?v=T4yLQ3Iqg5U)
 - [Introduction | Flutter Firebase Series | Part 01 | Urdu / Hindi](https://www.youtube.com/watch?v=n2Q3eClZW6k)
 - [This cool VS Code extension  is really helpful during Development in Flutter.](https://www.youtube.com/watch?v=57F0PoI7_gA)
 - [Localize Flutter app with this easy method | Flutter | Urdu / Hindi](https://www.youtube.com/watch?v=zFuATOlE77w)
-- [Flutter Widget of the Week (CheckboxListTile) (Urdu/Hindi)](https://www.youtube.com/watch?v=VCPD1bR77sQ)
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
