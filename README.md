@@ -54,11 +54,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Design Dashboard and Introducing Smart Widgets | Flutter Firebase Series | Part 07 | Urdu / Hindi](https://www.youtube.com/watch?v=NShPtP7FPZc)
 - [Login with Firebase | Flutter Firebase Series | Part 06 | Urdu / Hindi](https://www.youtube.com/watch?v=L7CZvbv__hw)
 - [Authenticate new user with firebase | Flutter Firebase Series | Part 05 | Urdu / Hindi](https://www.youtube.com/watch?v=-fllcTFTz60)
 - [Set up Firebase for Flutter project | Flutter Firebase Series | Part 04 | Urdu / Hindi](https://www.youtube.com/watch?v=jF0nVW_vxYA)
 - [Install and Configure Stacked CLI | Flutter Firebase Series | Part 03 | Urdu / Hindi](https://www.youtube.com/watch?v=j3Yu4YFG2Tk)
-- [Setting up the Ultimate Flutter Architecture | Flutter Firebase Series | Part 02 | Urdu / Hindi](https://www.youtube.com/watch?v=T4yLQ3Iqg5U)
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
