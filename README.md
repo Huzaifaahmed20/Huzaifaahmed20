@@ -5,9 +5,10 @@
 
 ## I'm Web and Mobile Application Developer!
 - 🔭 I’m currently working on a [Flutter Course][youtube-flutter-playlist]!
-- 🌱 I’m currently learning more Mobile App development tech 🤣
+- ⬛️  I had made the CLI Automation tool for flutter apps, for creating files (with starting code) and folders and dependency injection in an app [Stacked CLI][stacked-cli]!
+- 🌱  I’m currently learning more Mobile App development tech 🤣
 - 🥅  2020 Goals: Contribute more to Open Source projects and to grow my Youtube Channel to a good height.
-- ⚡ Fun fact: I love to make digital content.
+- ⚡  Fun fact: I love to make digital content.
 
 ### Connect with me:
 
@@ -87,3 +88,4 @@
 [linkedin]: https://www.linkedin.com/in/huzaifa-ahmed-mohammad/
 [medium]: https://medium.com/@huzaifaahmed_43162
 [stackoverflow]: https://stackoverflow.com/users/8249032/huzaifa-ahmed
+[stacked-cli]: https://pub.dev/packages/stacked_cli
