@@ -55,11 +55,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Send your first chat message to Firestore | Flutter Firebase Series | Part 10 | Urdu / Hindi](https://www.youtube.com/watch?v=Xj0hCTVvqwg)
 - [Design Chat screen, and pass data between routes | Flutter Firebase Series | Part 09 | Urdu / Hindi](https://www.youtube.com/watch?v=CeCuzh6B3PA)
 - [Fetch App users from Firebase Firestore | Flutter Firebase Series | Part 08 | Urdu / Hindi](https://www.youtube.com/watch?v=BEM32bsI4ic)
 - [Design Dashboard and Introducing Smart Widgets | Flutter Firebase Series | Part 07 | Urdu / Hindi](https://www.youtube.com/watch?v=NShPtP7FPZc)
 - [Login with Firebase | Flutter Firebase Series | Part 06 | Urdu / Hindi](https://www.youtube.com/watch?v=L7CZvbv__hw)
-- [Authenticate new user with firebase | Flutter Firebase Series | Part 05 | Urdu / Hindi](https://www.youtube.com/watch?v=-fllcTFTz60)
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
