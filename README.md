@@ -4,9 +4,10 @@
 ### Hi there, I'm Huzaifa Ahmed 👋
 
 ## I'm Web and Mobile Application Developer!
-- 🔭 I’m currently working on a [Flutter Course][youtube-flutter-playlist]!
-- ⬛️  I had made the CLI Automation tool for flutter apps, for creating files (with starting code) and folders and dependency injection in an app [Stacked CLI][stacked-cli]!
-- 🌱  I’m currently learning more Mobile App development tech 🤣
+- 🔭 I’m currently working on a [Flutter Firebase Series][youtube-flutter-playlist]!
+- ⬛️  I had made the CLI Automation tool for flutter apps, for creating files (with starting code) and folders and dependency injection in an app [Stacked CLI][stacked-cli]⌨
+- ⌨ I Developed VSCode extension for ReactJS Developers ❤️️, try it out and don't forget to give your precious review and rating 🌟 [React Files][react-files]
+- 🌱  I’m currently moving towards more Open Source Projects.
 - 🥅  2020 Goals: Contribute more to Open Source projects and to grow my Youtube Channel to a good height.
 - ⚡  Fun fact: I love to make digital content.
 
@@ -89,3 +90,4 @@
 [medium]: https://medium.com/@huzaifaahmed_43162
 [stackoverflow]: https://stackoverflow.com/users/8249032/huzaifa-ahmed
 [stacked-cli]: https://pub.dev/packages/stacked_cli
+[react-files]: https://marketplace.visualstudio.com/items?itemName=Huzaifa-Ahmed.react-files
