@@ -85,7 +85,7 @@
 [twitter]: https://twitter.com/Huzaifa_Ahmed19
 [youtube]: https://www.youtube.com/channel/UCLKS-qC6EvlE7bayfQsWPFw
 [youtube-flutter-playlist]: https://www.youtube.com/watch?v=n2Q3eClZW6k&list=PL4r_2P8lRxljxIO1gNY9H1iZMGpYhinLA
-[instagram]: https://www.instagram.com/huzaifa_ahmed13/
+[instagram]: https://www.instagram.com/_huzaifaahmed/
 [linkedin]: https://www.linkedin.com/in/huzaifa-ahmed-mohammad/
 [medium]: https://medium.com/@huzaifaahmed_43162
 [stackoverflow]: https://stackoverflow.com/users/8249032/huzaifa-ahmed
