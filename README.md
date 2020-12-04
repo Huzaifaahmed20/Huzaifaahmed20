@@ -8,6 +8,9 @@
   <a href="https://www.youtube.com/c/LivDev">
     <img src="https://img.shields.io/youtube/views/iEuT21t1qqc?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=Huzaifa-Ahmed.react-files">
+   <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/i/Huzaifa-Ahmed.react-files?color=%23007ACC&label=VS%20Code%20Extension&logo=Visual%20Studio%20Code&style=for-the-badge">
+  </a>
 </p>
 ### Hi there, I'm Huzaifa Ahmed 👋
 
