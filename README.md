@@ -31,6 +31,7 @@
 [<img align="left" alt="Huzaifa Ahmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Huzaifa Ahmed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Huzaifa Ahmed | Medium" width="22px" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" />][medium]
+[<img align="left" alt="Huzaifa Ahmed | Medium" width="22px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592752137870/scHk9tTaA.png?auto=compress" />][hashnode]
 <br />
 
 ### Languages and Tools:
@@ -99,6 +100,7 @@
 [instagram]: https://www.instagram.com/_huzaifaahmed/
 [linkedin]: https://www.linkedin.com/in/huzaifa-ahmed-mohammad/
 [medium]: https://medium.com/@huzaifaahmed_43162
+[hashnode]: https://huzaifaahmed.hashnode.dev/
 [stackoverflow]: https://stackoverflow.com/users/8249032/huzaifa-ahmed
 [stacked-cli]: https://pub.dev/packages/stacked_cli
 [react-files]: https://marketplace.visualstudio.com/items?itemName=Huzaifa-Ahmed.react-files
