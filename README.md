@@ -12,6 +12,7 @@
    <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/i/Huzaifa-Ahmed.react-files?color=%23007ACC&label=VS%20Code%20Extension&logo=Visual%20Studio%20Code&style=for-the-badge">
   </a>
 </p>
+
 ### Hi there, I'm Huzaifa Ahmed 👋
 
 ## I'm Web and Mobile Application Developer!
@@ -105,4 +106,4 @@
 [stackoverflow]: https://stackoverflow.com/users/8249032/huzaifa-ahmed
 [stacked-cli]: https://pub.dev/packages/stacked_cli
 [react-files]: https://marketplace.visualstudio.com/items?itemName=Huzaifa-Ahmed.react-files
-[flutter-provider-series]: https://youtube.com/playlist?list=PL4r_2P8lRxlg2eDizFXeiDhWYckwn5zqK
+[flutter-provider-series]: https://www.youtube.com/watch?v=ZiwS2sTmQBA&list=PL4r_2P8lRxlg2eDizFXeiDhWYckwn5zqK
