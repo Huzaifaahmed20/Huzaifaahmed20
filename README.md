@@ -15,12 +15,13 @@
 ### Hi there, I'm Huzaifa Ahmed 👋
 
 ## I'm Web and Mobile Application Developer!
-- 🔭 I’m currently working on a [Flutter Firebase Series][youtube-flutter-playlist]!
+- 🔥 Currently working on [Flutter Provider Series][flutter-provider-series]!
+- 🔭 Completed [Flutter Firebase Series][youtube-flutter-playlist]!
 - ⬛️  I had made the CLI Automation tool for flutter apps, for creating files (with starting code) and folders and dependency injection in an app [Stacked CLI][stacked-cli]⌨
 - ⌨ I Developed VSCode extension for ReactJS Developers ❤️️, try it out and don't forget to give your precious review and rating 🌟 [React Files][react-files]
 - 🌱  I’m currently moving towards more Open Source Projects.
-- 🥅  2020 Goals: Contribute more to Open Source projects and to grow my Youtube Channel to a good height.
-- ⚡  Fun fact: I love to make digital content.
+- 🥅  2021 Goals: Contribute more to Open Source projects and to grow my Youtube Channel to a good height.
+- ⚡  Fun fact: I love to play cricket.
 
 ### Connect with me:
 
@@ -104,3 +105,4 @@
 [stackoverflow]: https://stackoverflow.com/users/8249032/huzaifa-ahmed
 [stacked-cli]: https://pub.dev/packages/stacked_cli
 [react-files]: https://marketplace.visualstudio.com/items?itemName=Huzaifa-Ahmed.react-files
+[flutter-provider-series]: https://youtube.com/playlist?list=PL4r_2P8lRxlg2eDizFXeiDhWYckwn5zqK
