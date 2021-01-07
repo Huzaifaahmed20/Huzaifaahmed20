@@ -70,11 +70,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Design App Screens | Flutter Provider Series | Part 03 | Urdu / Hindi](https://www.youtube.com/watch?v=4zKyyh0zV3w)
 - [Setup App Structure | Flutter Provider Series | Part 02 | Urdu / Hindi](https://www.youtube.com/watch?v=o6661CZKv94)
 - [Introduction | Flutter Provider Series | Part 01 | Urdu / Hindi](https://www.youtube.com/watch?v=ZiwS2sTmQBA)
 - [Null Safety in Dart | Quick guide | Urdu / Hindi](https://www.youtube.com/watch?v=wtp4-Ln8ogg)
 - [Push Notification with FCM and Cloud Functions | Flutter Firebase Series | Part 13 | Urdu / Hindi](https://www.youtube.com/watch?v=PptnlimYqd4)
-- [Final touchup and course update announcement| Flutter Firebase Series | Part 12 | Urdu / Hindi](https://www.youtube.com/watch?v=5itkZfQSSvU)
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
