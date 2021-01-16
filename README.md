@@ -70,11 +70,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Error handling in dio/http | Flutter Provider Series | Part 06 | Urdu / Hindi](https://www.youtube.com/watch?v=KXZB4u2vAOw)
 - [Implement Provider & fetch user data | Flutter Provider Series | Part 05 | Urdu / Hindi](https://www.youtube.com/watch?v=_fu2UcAvH2A)
 - [Implement GitHub API | Flutter Provider Series | Part 04 | Urdu / Hindi](https://www.youtube.com/watch?v=hYzSxWTVwSc)
 - [Design App Screens | Flutter Provider Series | Part 03 | Urdu / Hindi](https://www.youtube.com/watch?v=4zKyyh0zV3w)
 - [Setup App Structure | Flutter Provider Series | Part 02 | Urdu / Hindi](https://www.youtube.com/watch?v=o6661CZKv94)
-- [Introduction | Flutter Provider Series | Part 01 | Urdu / Hindi](https://www.youtube.com/watch?v=ZiwS2sTmQBA)
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
