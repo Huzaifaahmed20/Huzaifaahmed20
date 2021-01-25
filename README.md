@@ -70,11 +70,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [State Management with Flutter Riverpod | Practical Implementation | Urdu / Hindi](https://www.youtube.com/watch?v=AEXY_SGWbXc)
 - [WebView in Flutter | Flutter Provider Series | Part 08 | Urdu / Hindi](https://www.youtube.com/watch?v=VHvue2K8a4I)
 - [Fetch Github Repositories in GridView | Flutter Provider Series | Part 07 | Urdu / Hindi](https://www.youtube.com/watch?v=2piJGyHCzOc)
 - [Error handling in dio/http | Flutter Provider Series | Part 06 | Urdu / Hindi](https://www.youtube.com/watch?v=KXZB4u2vAOw)
 - [Implement Provider & fetch user data | Flutter Provider Series | Part 05 | Urdu / Hindi](https://www.youtube.com/watch?v=_fu2UcAvH2A)
-- [Implement GitHub API | Flutter Provider Series | Part 04 | Urdu / Hindi](https://www.youtube.com/watch?v=hYzSxWTVwSc)
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
