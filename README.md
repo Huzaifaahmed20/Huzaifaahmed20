@@ -79,10 +79,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Flutter State Management with Provider (An Easy Way).](https://medium.com/@huzaifaahmed_43162/flutter-state-management-with-provider-an-easy-way-d5f171b06f11?source=rss-8ebb63e9d468------2)
-- [Set Up React Native Environment without Android Studio](https://medium.com/@huzaifaahmed_43162/set-up-react-native-environment-without-android-studio-2106890db912?source=rss-8ebb63e9d468------2)
-- [What is the difference between validated learning and wastage? And how do you know beforehand?](https://medium.com/@huzaifaahmed_43162/what-is-the-difference-between-validated-learning-and-wastage-and-how-do-you-know-beforehand-e4308e9905b8?source=rss-8ebb63e9d468------2)
-- [Are Entrepreneurs Born Or Made ? I Think...](https://medium.com/@huzaifaahmed_43162/are-entrepreneurs-born-or-made-i-think-c32e1dfaedc9?source=rss-8ebb63e9d468------2)
+- [State Management with Flutter Riverpod | Detailed Guide.](https://medium.com/@huzaifaahmed-43162/state-management-with-flutter-riverpod-detailed-guide-7b5f08d854be?source=rss-8ebb63e9d468------2)
+- [Flutter State Management with Provider (An Easy Way).](https://medium.com/@huzaifaahmed-43162/flutter-state-management-with-provider-an-easy-way-d5f171b06f11?source=rss-8ebb63e9d468------2)
+- [Set Up React Native Environment without Android Studio](https://medium.com/@huzaifaahmed-43162/set-up-react-native-environment-without-android-studio-2106890db912?source=rss-8ebb63e9d468------2)
+- [What is the difference between validated learning and wastage? And how do you know beforehand?](https://medium.com/@huzaifaahmed-43162/what-is-the-difference-between-validated-learning-and-wastage-and-how-do-you-know-beforehand-e4308e9905b8?source=rss-8ebb63e9d468------2)
+- [Are Entrepreneurs Born Or Made ? I Think...](https://medium.com/@huzaifaahmed-43162/are-entrepreneurs-born-or-made-i-think-c32e1dfaedc9?source=rss-8ebb63e9d468------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
