@@ -70,11 +70,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Use Stack overflow in your VSCode.](https://www.youtube.com/watch?v=PqE57VcSspQ)
 - [Setup Environment Variables / Secret keys in Flutter | Urdu / Hindi](https://www.youtube.com/watch?v=MpvyMyKi4Ek)
 - [State Management with Flutter Riverpod | Practical Implementation | Urdu / Hindi](https://www.youtube.com/watch?v=AEXY_SGWbXc)
 - [WebView in Flutter | Flutter Provider Series | Part 08 | Urdu / Hindi](https://www.youtube.com/watch?v=VHvue2K8a4I)
 - [Fetch Github Repositories in GridView | Flutter Provider Series | Part 07 | Urdu / Hindi](https://www.youtube.com/watch?v=2piJGyHCzOc)
-- [Error handling in dio/http | Flutter Provider Series | Part 06 | Urdu / Hindi](https://www.youtube.com/watch?v=KXZB4u2vAOw)
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
