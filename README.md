@@ -16,7 +16,7 @@
 ### Hi there, I'm Huzaifa Ahmed 👋
 
 ## I'm Web and Mobile Application Developer!
-- 🔥 Currently working on [Flutter Provider Series][flutter-provider-series]
+- 🔥 Completed [Flutter Provider Series][flutter-provider-series]
 - 🔭 Completed [Flutter Firebase Series][youtube-flutter-playlist]
 - ⬛️  I had made the CLI Automation tool for flutter apps, for creating files (with starting code) and folders and dependency injection in an app [Stacked CLI][stacked-cli]⌨
 - ⌨ I Developed VSCode extension for ReactJS Developers ❤️️, try it out and don't forget to give your precious review and rating 🌟 [React Files][react-files]
