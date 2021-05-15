@@ -70,11 +70,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Working with Assets in Flutter like a Pro  😎 | Urdu / Hindi](https://www.youtube.com/watch?v=Vi5uYj9eOvw)
 - [Use Postman directly into your VSCode](https://www.youtube.com/watch?v=wnQFqpsza1I)
 - [Use Stack overflow in your VSCode.](https://www.youtube.com/watch?v=PqE57VcSspQ)
 - [Setup Environment Variables / Secret keys in Flutter | Urdu / Hindi](https://www.youtube.com/watch?v=MpvyMyKi4Ek)
 - [State Management with Flutter Riverpod | Practical Implementation | Urdu / Hindi](https://www.youtube.com/watch?v=AEXY_SGWbXc)
-- [WebView in Flutter | Flutter Provider Series | Part 08 | Urdu / Hindi](https://www.youtube.com/watch?v=VHvue2K8a4I)
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
