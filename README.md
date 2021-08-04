@@ -79,11 +79,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [State Management with Flutter Riverpod | Detailed Guide.](https://huzaifaahmed-43162.medium.com/state-management-with-flutter-riverpod-detailed-guide-7b5f08d854be?source=rss-8ebb63e9d468------2)
-- [Flutter State Management with Provider (An Easy Way).](https://huzaifaahmed-43162.medium.com/flutter-state-management-with-provider-an-easy-way-d5f171b06f11?source=rss-8ebb63e9d468------2)
-- [Set Up React Native Environment without Android Studio](https://huzaifaahmed-43162.medium.com/set-up-react-native-environment-without-android-studio-2106890db912?source=rss-8ebb63e9d468------2)
-- [What is the difference between validated learning and wastage? And how do you know beforehand?](https://huzaifaahmed-43162.medium.com/what-is-the-difference-between-validated-learning-and-wastage-and-how-do-you-know-beforehand-e4308e9905b8?source=rss-8ebb63e9d468------2)
-- [Are Entrepreneurs Born Or Made ? I Think...](https://huzaifaahmed-43162.medium.com/are-entrepreneurs-born-or-made-i-think-c32e1dfaedc9?source=rss-8ebb63e9d468------2)
+- [You might not need redux | React Context API | useReducer](https://huzaifaahmed.com/context-api)
+- [Getting started with Flutter Riverpod](https://huzaifaahmed.com/getting-started-with-flutter-riverpod)
+- [Flutter State Management with Provider (An Easy Way).](https://huzaifaahmed.com/flutter-state-management-with-provider-an-easy-way)
 <!-- BLOG-POST-LIST:END -->
 
 ---
