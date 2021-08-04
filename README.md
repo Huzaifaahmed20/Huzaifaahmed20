@@ -79,6 +79,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Object-Oriented Programming in Javascript](https://huzaifaahmed.com/object-oriented-programming-in-javascript)
 - [You might not need redux | React Context API | useReducer](https://huzaifaahmed.com/context-api)
 - [Getting started with Flutter Riverpod](https://huzaifaahmed.com/getting-started-with-flutter-riverpod)
 - [Flutter State Management with Provider (An Easy Way).](https://huzaifaahmed.com/flutter-state-management-with-provider-an-easy-way)
