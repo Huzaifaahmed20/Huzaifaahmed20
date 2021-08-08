@@ -70,11 +70,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Object-Oriented Programming in JavaScript (ES6) | Detailed Explanation | Urdu / Hindi](https://www.youtube.com/watch?v=Xy9eBFuf8qU)
 - [You actually don't need Redux | React Context API](https://www.youtube.com/watch?v=eGdFTkBBvDI)
 - [Working with Assets in Flutter like a Pro  😎 | Urdu / Hindi](https://www.youtube.com/watch?v=Vi5uYj9eOvw)
 - [Use Postman directly into your VSCode](https://www.youtube.com/watch?v=wnQFqpsza1I)
 - [Use Stack overflow in your VSCode.](https://www.youtube.com/watch?v=PqE57VcSspQ)
-- [Setup Environment Variables / Secret keys in Flutter | Urdu / Hindi](https://www.youtube.com/watch?v=MpvyMyKi4Ek)
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
