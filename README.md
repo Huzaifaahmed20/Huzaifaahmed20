@@ -79,11 +79,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What is "this" in Javascript?](https://huzaifaahmed.com/this-in-js)
-- [Object-Oriented Programming in Javascript (ES6)](https://huzaifaahmed.com/oop-in-js)
+- [What is &quot;this&quot; in Javascript?](https://huzaifaahmed.com/this-in-js)
+- [Object-Oriented Programming in Javascript &lpar;ES6&rpar;](https://huzaifaahmed.com/oop-in-js)
 - [You might not need redux | React Context API | useReducer](https://huzaifaahmed.com/context-api)
 - [Getting started with Flutter Riverpod](https://huzaifaahmed.com/getting-started-with-flutter-riverpod)
-- [Flutter State Management with Provider (An Easy Way).](https://huzaifaahmed.com/flutter-state-management-with-provider-an-easy-way)
+- [Flutter State Management with Provider &lpar;An Easy Way&rpar;.](https://huzaifaahmed.com/flutter-state-management-with-provider-an-easy-way)
 <!-- BLOG-POST-LIST:END -->
 
 ---
