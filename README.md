@@ -70,11 +70,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Tailwind CSS Just-In-Time Engine | Urdu](https://www.youtube.com/watch?v=SymuWD-yRMw)
 - [Tailwind CSS Crash Course | In Urdu](https://www.youtube.com/watch?v=zZB0z09knY0)
 - [Object-Oriented Programming in JavaScript &lpar;ES6&rpar; | Detailed Explanation | Urdu / Hindi](https://www.youtube.com/watch?v=Xy9eBFuf8qU)
 - [You actually don&#39;t need Redux | React Context API](https://www.youtube.com/watch?v=eGdFTkBBvDI)
 - [Working with Assets in Flutter like a Pro  😎 | Urdu / Hindi](https://www.youtube.com/watch?v=Vi5uYj9eOvw)
-- [Use Postman directly into your VSCode](https://www.youtube.com/watch?v=wnQFqpsza1I)
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
