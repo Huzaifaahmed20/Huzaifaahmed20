@@ -70,7 +70,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [React Crash course 2022 | For absolute beginners | In Urdu](https://www.youtube.com/watch?v=q5pfzya6010)
+- [React Crash Course 2022 | For absolute beginners | In Urdu](https://www.youtube.com/watch?v=q5pfzya6010)
 - [Dark Mode in Tailwind CSS | In Urdu](https://www.youtube.com/watch?v=EcBwrDFNzkw)
 - [Tailwind CSS Just-In-Time Engine | In Urdu](https://www.youtube.com/watch?v=SymuWD-yRMw)
 - [Tailwind CSS Crash Course | In Urdu](https://www.youtube.com/watch?v=zZB0z09knY0)
