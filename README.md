@@ -13,7 +13,7 @@
   </a>
 </p>
 
-### Hi there, I'm Huzaifa Ahmed <a href="https://www.huzaifaahmed.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there, I'm Huzaifa Ahmed <a href="https://www.huzaifaahmed.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20" width="20"></a>
 
 ## I'm Web and Mobile Application Developer!
 - 🔥 Completed [Flutter Provider Series][flutter-provider-series]
