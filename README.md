@@ -70,11 +70,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [React.memo &amp; useMemo |  What&#39;s the difference | In Urdu](https://www.youtube.com/watch?v=qKESJIZgjHE)
+- [JavaScript Concepts Every Web Developer Should Know | Part 02 | Urdu](https://www.youtube.com/watch?v=CC4cgi-GFFI)
+- [JavaScript Concepts Every Web Developer Should Know | Part 01 | Urdu](https://www.youtube.com/watch?v=hEPxYZwphHk)
 - [Redux Crash Course 2022 | For absolute beginners | In Urdu](https://www.youtube.com/watch?v=QvJ4PNX-wj0)
 - [React Crash Course 2022 | For absolute beginners | In Urdu](https://www.youtube.com/watch?v=q5pfzya6010)
-- [Dark Mode in Tailwind CSS | In Urdu](https://www.youtube.com/watch?v=EcBwrDFNzkw)
-- [Tailwind CSS Just-In-Time Engine | In Urdu](https://www.youtube.com/watch?v=SymuWD-yRMw)
-- [Tailwind CSS Crash Course | In Urdu](https://www.youtube.com/watch?v=zZB0z09knY0)
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
