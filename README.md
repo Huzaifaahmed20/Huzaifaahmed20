@@ -9,7 +9,10 @@
     <img src="https://img.shields.io/youtube/views/zFuATOlE77w?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a> -->
   <a href="https://marketplace.visualstudio.com/items?itemName=Huzaifa-Ahmed.react-files">
-   <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/i/Huzaifa-Ahmed.react-files?color=%23007ACC&label=VS%20Code%20Extension&logo=Visual%20Studio%20Code&style=for-the-badge"/>
+   <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/i/Huzaifa-Ahmed.react-files?color=%23007ACC&label=React files extension&logo=Visual%20Studio%20Code&style=for-the-badge"/>
+  </a>
+   <a href=https://marketplace.visualstudio.com/items?itemName=Huzaifa-Ahmed.react-css-copypaste">
+   <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/i/Huzaifa-Ahmed.react-css-copypaste?color=%23007ACC&label=Post CSS Extension&logo=Visual%20Studio%20Code&style=for-the-badge"/>
   </a>
 </p>
 
@@ -26,12 +29,12 @@
 
 ### Connect with me:
 
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Huzaifa Ahmed | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" width="22px" src="https://user-images.githubusercontent.com/26674425/180740373-6c6c6d5e-24c0-43dc-8c11-b89b4507cb00.png" />][website]
+[<img align="left" alt="Huzaifa Ahmed | YouTube" width="22px" src="https://user-images.githubusercontent.com/26674425/180740755-d1d95c7b-d013-45c2-96d8-4d52574f5522.png" />][youtube]
 [<img align="left" alt="Huzaifa Ahmed | Stackoverflow" width="22px" src="https://logodix.com/logo/379478.png" />][stackoverflow]
-[<img align="left" alt="Huzaifa Ahmed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Huzaifa Ahmed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Huzaifa Ahmed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Huzaifa Ahmed | Twitter" width="22px" src="https://user-images.githubusercontent.com/26674425/180740871-c119ddb7-65eb-4daa-b315-d8f19a42a486.png" />][twitter]
+[<img align="left" alt="Huzaifa Ahmed | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/26674425/180741020-f2abdcd8-7505-489b-8416-7327ab9feb04.png" />][linkedin]
+[<img align="left" alt="Huzaifa Ahmed | Instagram" width="22px" src="https://user-images.githubusercontent.com/26674425/180741151-6b794e4b-1057-41a5-b2ad-56819c9ee8c8.png" />][instagram]
 [<img align="left" alt="Huzaifa Ahmed | Medium" width="22px" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" />][medium]
 [<img align="left" alt="Huzaifa Ahmed | Medium" width="22px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592752137870/scHk9tTaA.png?auto=compress" />][hashnode]
 <br />
@@ -57,7 +60,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/26674425/180741494-d8cd0fb0-b7cb-4eef-b42d-2b7a2b3c0fda.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
