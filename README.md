@@ -73,7 +73,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [What is heck is lazy loading in React? | In Urdu](https://www.youtube.com/watch?v=j4n9PvNXkRk)
+- [What the heck is lazy loading in React? | In Urdu](https://www.youtube.com/watch?v=j4n9PvNXkRk)
 - [Don&#39;t mess with useState | The mistake every React developer is making | In Urdu](https://www.youtube.com/watch?v=luxwHsEJuKQ)
 - [React.memo &amp; useMemo |  What&#39;s the difference | In Urdu](https://www.youtube.com/watch?v=qKESJIZgjHE)
 - [JavaScript Concepts Every Web Developer Should Know | Part 02 | Urdu](https://www.youtube.com/watch?v=CC4cgi-GFFI)
