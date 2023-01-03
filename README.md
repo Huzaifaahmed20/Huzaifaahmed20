@@ -24,7 +24,6 @@
 - ⬛️  I had made the CLI Automation tool for flutter apps, for creating files (with starting code) and folders and dependency injection in an app [Stacked CLI][stacked-cli]⌨
 - ⌨ I Developed VSCode extension for ReactJS Developers ❤️️, try it out and don't forget to give your precious review and rating 🌟 [React Files][react-files]
 - 🌱  I’m currently moving towards more Open Source Projects.
-- 🥅  2022 Goals: Contribute more to Open Source projects and to grow my Youtube Channel to a good height.
 - ⚡  Fun fact: I love to play cricket.
 
 ### Connect with me:
