@@ -86,11 +86,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create Video call app with Flutter | ZEGOCLOUD](https://huzaifaahmed.com/video-call-app-zegocloud)
 - [What is &quot;this&quot; in Javascript?](https://huzaifaahmed.com/this-in-js)
 - [Object-Oriented Programming in Javascript &lpar;ES6&rpar;](https://huzaifaahmed.com/oop-in-js)
 - [You might not need redux | React Context API | useReducer](https://huzaifaahmed.com/context-api)
 - [Getting started with Flutter Riverpod](https://huzaifaahmed.com/getting-started-with-flutter-riverpod)
-- [Flutter State Management with Provider &lpar;An Easy Way&rpar;.](https://huzaifaahmed.com/flutter-state-management-with-provider-an-easy-way)
 <!-- BLOG-POST-LIST:END -->
 
 ---
