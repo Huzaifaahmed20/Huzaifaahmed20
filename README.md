@@ -11,7 +11,7 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=Huzaifa-Ahmed.react-files">
    <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/i/Huzaifa-Ahmed.react-files?color=%23007ACC&label=React files extension&logo=Visual%20Studio%20Code&style=for-the-badge"/>
   </a>
-   <a href=https://marketplace.visualstudio.com/items?itemName=Huzaifa-Ahmed.react-css-copypaste">
+   <a href="https://marketplace.visualstudio.com/items?itemName=Huzaifa-Ahmed.react-css-copypaste">
    <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/i/Huzaifa-Ahmed.react-css-copypaste?color=%23007ACC&label=Post CSS Extension&logo=Visual%20Studio%20Code&style=for-the-badge"/>
   </a>
 </p>
