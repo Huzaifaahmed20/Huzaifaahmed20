@@ -86,11 +86,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spreading: AI-Powered Knowledge Base Platform for Developers](https://huzaifaahmed.hashnode.dev/spreading-ai-powered-knowledge-base-platform-for-developers)
 - [Create a Video call app with Flutter ZEGOCLOUD](https://huzaifaahmed.hashnode.dev/video-call-app-zegocloud)
 - [What is &quot;this&quot; in Javascript?](https://huzaifaahmed.hashnode.dev/this-in-js)
 - [Object-Oriented Programming in Javascript &lpar;ES6&rpar;](https://huzaifaahmed.hashnode.dev/oop-in-js)
 - [You might not need redux | React Context API | useReducer](https://huzaifaahmed.hashnode.dev/context-api)
-- [Getting started with Flutter Riverpod](https://huzaifaahmed.hashnode.dev/getting-started-with-flutter-riverpod)
 <!-- BLOG-POST-LIST:END -->
 
 ---
