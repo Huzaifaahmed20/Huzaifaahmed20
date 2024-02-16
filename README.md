@@ -2,9 +2,9 @@
   <a href="https://github.com/Huzaifaahmed20">
     <img src="https://img.shields.io/github/followers/Huzaifaahmed20?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/Huzaifa_Ahmed19">
+<!--   <a href="http://twitter.com/Huzaifa_Ahmed19">
     <img src="https://img.shields.io/twitter/follow/Huzaifa_Ahmed19?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
+  </a> -->
 <!--   <a href="https://www.youtube.com/c/LivDev">
     <img src="https://img.shields.io/youtube/views/zFuATOlE77w?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a> -->
