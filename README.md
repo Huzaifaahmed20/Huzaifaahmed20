@@ -34,7 +34,7 @@
 [<img align="left" alt="Huzaifa Ahmed | Twitter" width="22px" src="https://user-images.githubusercontent.com/26674425/180740871-c119ddb7-65eb-4daa-b315-d8f19a42a486.png" />][twitter]
 [<img align="left" alt="Huzaifa Ahmed | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/26674425/180741020-f2abdcd8-7505-489b-8416-7327ab9feb04.png" />][linkedin]
 [<img align="left" alt="Huzaifa Ahmed | Instagram" width="22px" src="https://user-images.githubusercontent.com/26674425/180741151-6b794e4b-1057-41a5-b2ad-56819c9ee8c8.png" />][instagram]
-[<img align="left" alt="Huzaifa Ahmed | Medium" width="22px" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" />][medium]
+[<img align="left" alt="Huzaifa Ahmed | Medium" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/768px-Medium_logo_Monogram.svg.png" />][medium]
 [<img align="left" alt="Huzaifa Ahmed | Medium" width="22px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592752137870/scHk9tTaA.png?auto=compress" />][hashnode]
 <br />
 
