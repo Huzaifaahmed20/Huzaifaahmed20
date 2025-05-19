@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://twitter.com/Huzaifa_Ahmed19" _target="blank">
-  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Huzaifa_Ahmed19?style=for-the-badge&logo=x&color=%23ffffff00">
+  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Huzaifa_Ahmed19?style=for-the-badge&logo=x">
   </a> 
 
   <a href="https://www.youtube.com/c/LivDev">
@@ -15,7 +15,7 @@
   <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/d/Huzaifa-Ahmed.react-files?style=for-the-badge&label=React%20Files%20Extension&color=%23007ec5">
   </a>
   
-   <a href="https://marketplace.visualstudio.com/items?itemName=Huzaifa-Ahmed.react-files" _target="blank">
+   <a href="https://marketplace.visualstudio.com/items?itemName=Huzaifa-Ahmed.react-css-copypaste" _target="blank">
   <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/d/Huzaifa-Ahmed.react-css-copypaste?style=for-the-badge&label=Post%20CSS%20Extension&color=%23007ec5">
   </a> 
 </p>
