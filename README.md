@@ -8,12 +8,7 @@
 <!--   <a href="https://www.youtube.com/c/LivDev">
     <img src="https://img.shields.io/youtube/views/zFuATOlE77w?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a> -->
-  <a href="https://marketplace.visualstudio.com/items?itemName=Huzaifa-Ahmed.react-files">
-   <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/i/Huzaifa-Ahmed.react-files?color=%23007ACC&label=React files extension&logo=Visual%20Studio%20Code&style=for-the-badge"/>
-  </a>
-   <a href="https://marketplace.visualstudio.com/items?itemName=Huzaifa-Ahmed.react-css-copypaste">
-   <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/i/Huzaifa-Ahmed.react-css-copypaste?color=%23007ACC&label=Post CSS Extension&logo=Visual%20Studio%20Code&style=for-the-badge"/>
-  </a>
+ 
 </p>
 
 ### Hi there, I'm Huzaifa Ahmed <a href="https://www.huzaifaahmed.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20" width="20"></a>
