@@ -81,11 +81,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [You&#39;ve used AI every day. But do you know how it works? #ai #automation # #chatbots #claude #chatgpt](https://www.youtube.com/shorts/E9RbpE6YRlo)
 - [Create Video call app with Flutter | ZEGOCLOUD](https://www.youtube.com/watch?v=p727ltokqu4)
 - [What the heck is lazy loading in React? | In Urdu](https://www.youtube.com/watch?v=j4n9PvNXkRk)
 - [Don&#39;t mess with useState | The mistake every React developer is making | In Urdu](https://www.youtube.com/watch?v=luxwHsEJuKQ)
 - [React.memo &amp; useMemo |  What&#39;s the difference | In Urdu](https://www.youtube.com/watch?v=qKESJIZgjHE)
-- [JavaScript Concepts Every Web Developer Should Know | Part 02 | Urdu](https://www.youtube.com/watch?v=CC4cgi-GFFI)
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
