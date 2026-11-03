@@ -81,11 +81,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How does a company really build its AI assistant? #AI #AIAgents #GenAI #RAG #MCP #LLM](https://www.youtube.com/shorts/L5E1BqPuUoA)
 - [Did the AI bubble just pop? Short answer: no, but it&#39;s leaking. #aiinfluencers](https://www.youtube.com/shorts/ytcdf_cr8pA)
 - [You&#39;ve used AI every day. But do you know how it works? #ai #automation # #chatbots #claude #chatgpt](https://www.youtube.com/shorts/E9RbpE6YRlo)
 - [Create Video call app with Flutter | ZEGOCLOUD](https://www.youtube.com/watch?v=p727ltokqu4)
 - [What the heck is lazy loading in React? | In Urdu](https://www.youtube.com/watch?v=j4n9PvNXkRk)
-- [Don&#39;t mess with useState | The mistake every React developer is making | In Urdu](https://www.youtube.com/watch?v=luxwHsEJuKQ)
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
