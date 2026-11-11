@@ -1,26 +1,5 @@
-<p align="center">
-  <a href="http://twitter.com/Huzaifa_Ahmed19" _target="blank">
-  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Huzaifa_Ahmed19?style=for-the-badge&logo=x">
-  </a> 
-
-  <a href="https://www.youtube.com/c/LivDev">
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCLKS-qC6EvlE7bayfQsWPFw?style=for-the-badge&label=Subscribe%20Now">
-</a>
-  
-  <a href="https://github.com/Huzaifaahmed20" _target="blank">
-    <img src="https://img.shields.io/github/followers/Huzaifaahmed20?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-
-   <a href="https://marketplace.visualstudio.com/items?itemName=Huzaifa-Ahmed.react-files" _target="blank">
-  <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/d/Huzaifa-Ahmed.react-files?style=for-the-badge&label=React%20Files%20Extension&color=%23007ec5">
-  </a>
-  
-   <a href="https://marketplace.visualstudio.com/items?itemName=Huzaifa-Ahmed.react-css-copypaste" _target="blank">
-  <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/d/Huzaifa-Ahmed.react-css-copypaste?style=for-the-badge&label=Post%20CSS%20Extension&color=%23007ec5">
-  </a> 
-</p>
-
 ### Hi there, I'm Huzaifa Ahmed <a href="https://www.huzaifaahmed.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20" width="20"></a>
+
 
 ## I'm Web and Mobile Application Developer!
 - 🔥 Completed [Flutter Provider Series][flutter-provider-series]
